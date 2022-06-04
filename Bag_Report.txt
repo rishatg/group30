@@ -1,0 +1,11 @@
+Environment: Android
+ID: 1
+Step 1: Install app
+Step 2: Open App
+Step 3: Tap Register button
+Step 4: Input Email
+Step 5: Input Password
+Step 6: Tap Register
+Actual_Result: Registration Sucessful!
+Expected_Result: Registration Sucessful!
+Attachments: Link
